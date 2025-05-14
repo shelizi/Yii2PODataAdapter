@@ -1,5 +1,5 @@
 {
-    "name": "qeti/yii2-podata-adapter",
+    "name": "shelizi/yii2-podata-adapter",
     "description": "Adapter for using POData with Yii2",
     "keywords": ["odata", "podata", "yii2", "rest"],
     "homepage": "https://github.com/qeti/Yii2PODataAdapter#readme",
